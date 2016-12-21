@@ -1,0 +1,13 @@
+package cn.itcast.test;
+
+import java.io.File;
+
+import org.apache.commons.io.FileUtils;
+
+public class T {
+    
+    public static void main(String[] args) {
+        FileUtils.readFileToString(new File("E:\\tt\\download.bat"), "UTF-8");
+    }
+
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="shiro" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="shiro"/>
+			<item value="ojdbc14"/>
+			<item value="logo"/>
+			<item value="order/"/>
+			<item value="pagin-btm"/>
+			<item value="js/base-v1.js"/>
+			<item value="js/base-v1.js "/>
+			<item value="${"/>
+		</list>
+		<list key="replacehistory">
+			<item value="taotao-search"/>
+			<item value="_token"/>
+			<item value="taotao-sso"/>
+			<item value="="/>
+			<item value="http://image.taotao.com/images/2016/01/20/2016012009141232208471.jpg"/>
+			<item value="http://image.taotao.com/images/2016/01/20/2016012009141205409499.jpg"/>
+			<item value="taotao-web"/>
+			<item value="this.mapper"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="83" key="DIALOG_Y_ORIGIN"/>
+		<item value="793" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

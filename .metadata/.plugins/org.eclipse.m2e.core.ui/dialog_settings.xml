@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.taobao.manager"/>
+			<item value="com.taobao.common"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="taobao-manager-web"/>
+			<item value="taobao-manager"/>
+			<item value="taobao-manager-service"/>
+			<item value="taobao-manager-mapper"/>
+			<item value="taobao-manager-pojo"/>
+			<item value="taobao-common"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="G:\workspace\workspace\taotao-web"/>
+			<item value="G:\workspace\workspace\taotao-sso"/>
+			<item value="G:\workspace\workspace\taotao-search"/>
+			<item value="G:\workspace\workspace\taotao-parent"/>
+			<item value="G:\workspace\workspace\taotao-order"/>
+			<item value="G:\workspace\workspace\taotao-manage"/>
+			<item value="G:\workspace\workspace\taotao-common"/>
+			<item value="G:\workspace\workspace\taotao-cart"/>
+			<item value="G:\workspace\workspace\mavenbos25"/>
+			<item value="G:\workspace\workspace\taotao-manage\taotao-manage-web"/>
+			<item value="G:\workspace\workspace\taotao-manage\taotao-manage-service"/>
+			<item value="G:\workspace\workspace\taotao-manage\taotao-manage-pojo"/>
+			<item value="G:\workspace\workspace\taotao-manage\taotao-manage-mapper"/>
+			<item value="E:\0114\workspace\itcast-usermanage"/>
+			<item value="C:\Users\zhijun\Desktop\itcast-usermanage"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="taobao-manager-web"/>
+			<item value="taobao-manager-service"/>
+			<item value="taobao-manager-mapper"/>
+			<item value="taobao-manager-pojo"/>
+			<item value="taotao-manage-web"/>
+			<item value="taotao-manage-service"/>
+			<item value="taotao-manage-mapper"/>
+			<item value="taotao-manage-pojo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.taobao.manager.web"/>
+		</list>
+		<list key="groupId">
+			<item value="com.taobao.manager"/>
+		</list>
+		<list key="artifactId">
+			<item value="taobao-manager-web"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

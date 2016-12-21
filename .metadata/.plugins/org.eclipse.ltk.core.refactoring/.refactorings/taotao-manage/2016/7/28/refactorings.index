@@ -1,0 +1,4 @@
+1467706599293	Rename resource 'rabbitmq.properties'
+1467706997303	Rename resource 'httpclient.properties'
+1467707959885	Rename resource 'applicationContext-httpclient.xml'
+1467707971589	Rename resource 'applicationContext-rabbitmq.xml'

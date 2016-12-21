@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;taotao-order/src/main/resources/rabbitmq.properties&apos; to &apos;rabbitmq.properties.bak&apos;" description="Rename resource &apos;rabbitmq.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/rabbitmq.properties" name="rabbitmq.properties.bak" stamp="1467707875533" updateReferences="true"/>
+</session>

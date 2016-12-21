@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;taotao-cart/src/main/resources/httpclient.properties&apos; to &apos;httpclient.properties.bak&apos;" description="Rename resource &apos;httpclient.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/httpclient.properties" name="httpclient.properties.bak" stamp="1467707798867" updateReferences="true"/>
+</session>
