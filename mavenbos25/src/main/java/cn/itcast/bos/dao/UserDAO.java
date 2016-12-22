@@ -23,6 +23,7 @@ public interface UserDAO extends JpaRepository<User, String>{
 	 * @time：2016年1月30日 下午2:56:54
 	 */
 	public User findByUsername(String username);
+	public User findByUsername1(String username);
 	/**
 	 * 
 	 * 说明：根据用户名密码查询用户列表，相当于：where username =? and password =?
